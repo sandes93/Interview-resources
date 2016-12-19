@@ -4,8 +4,9 @@
 ### Front-end:
  - [JsDude interview resources](http://thatjsdude.com/interview/)
  - [Front-end Dev questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
 ### General: 
- -[General interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+ - [General interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## Programming resources:
  - (https://github.com/vhf/free-programming-books)
